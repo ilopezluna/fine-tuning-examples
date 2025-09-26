@@ -1,1 +1,4 @@
 .idea/
+outputs/
+result/
+unsloth_compiled_cache/
